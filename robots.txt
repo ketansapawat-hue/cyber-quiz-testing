@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /research/template/
+
+Sitemap: https://akshayksharmaofficial.github.io/sitemap.xml
